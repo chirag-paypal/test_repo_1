@@ -15,6 +15,7 @@ public class StartingPoint {
 		}
 		int i = 1;
 		System.println("value is " + i);
+		System.println("value_new);
 	}
 	
 }
