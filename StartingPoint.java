@@ -13,7 +13,8 @@ public class StartingPoint {
 			System.out.println(words);
 			finish -=1;
 		}
-			
+		int i = 1;
+		System.println("value is " + i);
 	}
 	
 }
